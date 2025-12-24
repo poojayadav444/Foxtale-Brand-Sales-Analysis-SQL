@@ -46,6 +46,26 @@ Use Case
 This project demonstrates how SQL can be used to perform structured data analysis
 for a real-world skincare brand and support data-driven business decisions.
 
+📈 SQL Outputs
+
+ 🔹 Total Revenue
+[Total Revenue](outputs/total_revenue.png)
+
+ 🔹 Revenue by Product
+[Revenue by Product](outputs/revenue_by_product.png)
+
+ 🔹 Category-wise Revenue
+[Category Revenue](outputs/category_revenue.png)
+
+ 🔹 Monthly Sales Trend
+[Monthly Sales](outputs/monthly_sales.png)
+
+🔹 Top Customers
+![Top Customers](outputs/top_customers.png)
+
+📂 Project Structure
+
 Author
 Thanikonda Sripoojitha
+
 
